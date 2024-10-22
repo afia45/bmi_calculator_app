@@ -32,3 +32,6 @@ It contains the following pages:
 - Splash Page (Loading Screen)
 - Home Page
 - Result Page
+
+## Screen Record (on BlueStacks Emulator)
+- [BMI Calculator Mobile App](https://youtu.be/Zbn-pwzlzII "App Function")
